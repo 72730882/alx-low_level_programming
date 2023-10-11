@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- *
+ * @c: character to be checked
  * Return: always 0
  */
 
