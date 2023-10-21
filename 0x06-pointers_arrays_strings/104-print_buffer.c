@@ -42,7 +42,7 @@ void print_buffer(char *b, int size)
 			{
 				c = '.';
 			}
-			printf("%o", c);
+			printf("%c", c);
 		}
 		printf("\n");
 		o += 10;
